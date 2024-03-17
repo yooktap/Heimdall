@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/Heimdall/dataset/train
+val: /content/drive/MyDrive/Heimdall/dataset/val
+
+nc: 2
+
+names: ["rifle", "gun"]
