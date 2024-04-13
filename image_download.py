@@ -6,3 +6,4 @@ keywords = ["pistol", "semi-automatic rifles", "machine gun", "shotgun", "revolv
 
 for kw in keywords:
     response().download(kw, 100)
+print("Download complete")
